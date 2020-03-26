@@ -1,6 +1,6 @@
 # Phaser Platform Game
 A Phaser 3 project with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/)
-that includes hot-reloading for development and production-ready builds.
+that includes hot-reloading for development and production-ready builds. 
 
 ![alt text](https://phaser.io/content/tutorials/making-your-first-phaser-3-game/part10.png "Screenshot of game")
 ## Requirements
@@ -15,3 +15,5 @@ that includes hot-reloading for development and production-ready builds.
 | `npm start` | Build project and open web server running project |
 | `npm run build` | Builds code bundle with production settings (minification, uglification, etc..) |
 
+## Disclaimer
+The entire game is based on the [Phaser 3 Game Tutorial](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1). 
